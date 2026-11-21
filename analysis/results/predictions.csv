@@ -1,0 +1,12 @@
+image_name,expected,predicted,absolute_error
+image_1.jpg,19,21,2
+image_2.jpg,25,27,2
+image_3.jpg,13,13,0
+image_4.jpg,40,41,1
+image_5.jpg,10,10,0
+image_6.jpg,35,36,1
+image_7.jpg,100,105,5
+image_8.jpg,100,102,2
+image_9.jpg,28,22,6
+image_10.jpg,20,20,0
+image_11.jpg,7,7,0

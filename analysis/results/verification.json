@@ -1,0 +1,24 @@
+{
+  "mae": 1.7272727272727273,
+  "absolute_error_sum": 19,
+  "images": 11,
+  "evaluation_seconds": 0.3883230999999796,
+  "python": "3.14.10",
+  "opencv": "5.0.0",
+  "numpy": "2.5.4",
+  "solution_sha256": "68d3cc8b6e769f8a8f5b575710a34e6cba326c8ce429076c0ec3c8fb03aa2a1d",
+  "dataset_sha256": {
+    "data\\count.csv": "090313ee056289650ed4c7f5c347d1109d470771ade6ac7ad8be0f6ab2ac915c",
+    "data\\images\\image_1.jpg": "bf48b9de1485bacfc698c513b4ba4d65b70d63222d789f0b04f9788b1d75bb54",
+    "data\\images\\image_10.jpg": "1e10a4613216beb8cc4277ac25c379ca194855c1d3cd04f95482d51a603cb68d",
+    "data\\images\\image_11.jpg": "7091a6635a96ab93c145072a35bfe4996eeed43492da44010cba2819fd0da63b",
+    "data\\images\\image_2.jpg": "8beec93965f71bd052743bcd182c9c0520ed6a88ea225183536ddf2b3135f8ca",
+    "data\\images\\image_3.jpg": "c21ff0275e5ffad7a7c7b2739211f1b87b92d45d3d08f3ab59b4316730d2e9ed",
+    "data\\images\\image_4.jpg": "5a50ed8bff47899d46cc3f3941a6078a26e0cca5b1ac8b2b66454facb4d17d81",
+    "data\\images\\image_5.jpg": "ec8582693a6edc97ba48276b3bbad7c4ec6d2bee1bc36de5bb007a18e27a2a86",
+    "data\\images\\image_6.jpg": "8d396d51bb6357e32f524a82f155aa88f4151e60d3aad63c370b72b4ba68065d",
+    "data\\images\\image_7.jpg": "ed5661469c15322bde718b3d92e1e1deadd868c5ebb2da4e5bf2cac913e382bb",
+    "data\\images\\image_8.jpg": "b7abb592ac1770a9863669eac6e2cfdc9b3fc3691830c3ea95520648e5ec188d",
+    "data\\images\\image_9.jpg": "16159ca44cd601e39b7b9e60a690f29809415b5a9b8f06b8b2d0bdd1e0a479cc"
+  }
+}
